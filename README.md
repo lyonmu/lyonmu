@@ -1,6 +1,5 @@
 ### Hey 👋, I'm lyonmu
 - 🔭 I am currently engaged in software development in Shanghai
-- Check my 🖋 [Chinese blog](http://muqingcloud.space/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyonmu&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyonmu&theme=github)
